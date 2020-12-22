@@ -1,0 +1,6 @@
+How would you handle an imbalanced dataset?
+
+The imbalanced dataset can be handed by
+-> Upsampling or undersampling the dataset
+-> Synthetically producing the minority data using K nearest neighbours (SMOTE)
+-> Dividing majority data into batches and training with minority data separately and finally choosing the best model.
